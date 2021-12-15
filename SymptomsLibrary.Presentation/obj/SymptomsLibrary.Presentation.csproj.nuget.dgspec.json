@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Presentation\\SymptomsLibrary.Presentation.csproj": {}
+  },
+  "projects": {
+    "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Application\\SymptomsLibrary.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Application\\SymptomsLibrary.Application.csproj",
+        "projectName": "SymptomsLibrary.Application",
+        "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Application\\SymptomsLibrary.Application.csproj",
+        "packagesPath": "C:\\Users\\fabio.pitte\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio.pitte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj": {
+                "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj",
+        "projectName": "SymptomsLibrary.Domain",
+        "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj",
+        "packagesPath": "C:\\Users\\fabio.pitte\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio.pitte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Infra.Data\\SymptomsLibrary.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Infra.Data\\SymptomsLibrary.Infra.Data.csproj",
+        "projectName": "SymptomsLibrary.Infra.Data",
+        "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Infra.Data\\SymptomsLibrary.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\fabio.pitte\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio.pitte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj": {
+                "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.IoC\\SymptomsLibrary.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.IoC\\SymptomsLibrary.Infra.IoC.csproj",
+        "projectName": "SymptomsLibrary.Infra.IoC",
+        "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.IoC\\SymptomsLibrary.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\fabio.pitte\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio.pitte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Application\\SymptomsLibrary.Application.csproj": {
+                "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Application\\SymptomsLibrary.Application.csproj"
+              },
+              "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj": {
+                "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj"
+              },
+              "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Infra.Data\\SymptomsLibrary.Infra.Data.csproj": {
+                "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Infra.Data\\SymptomsLibrary.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Presentation\\SymptomsLibrary.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Presentation\\SymptomsLibrary.Presentation.csproj",
+        "projectName": "SymptomsLibrary.Presentation",
+        "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Presentation\\SymptomsLibrary.Presentation.csproj",
+        "packagesPath": "C:\\Users\\fabio.pitte\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio.pitte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Infra.Data\\SymptomsLibrary.Infra.Data.csproj": {
+                "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Infra.Data\\SymptomsLibrary.Infra.Data.csproj"
+              },
+              "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.IoC\\SymptomsLibrary.Infra.IoC.csproj": {
+                "projectPath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.IoC\\SymptomsLibrary.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

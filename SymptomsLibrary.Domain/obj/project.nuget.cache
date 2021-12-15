@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KLQTdmtBxWgI3T7NScPc+GJivI039HWKaFjtMxDHQM1qbFPBTa7TEJ0YPJSwHly/3nKvhCXo3+mDnBaDPV4n4w==",
+  "success": true,
+  "projectFilePath": "D:\\git\\personal-projects\\rdi-challenge\\symptom-library-api\\SymptomsLibrary.Domain\\SymptomsLibrary.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio.pitte\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

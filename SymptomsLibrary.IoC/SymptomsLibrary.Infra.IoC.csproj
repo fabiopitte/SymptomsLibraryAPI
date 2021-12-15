@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SymptomsLibrary.Application\SymptomsLibrary.Application.csproj" />
+    <ProjectReference Include="..\SymptomsLibrary.Domain\SymptomsLibrary.Domain.csproj" />
+    <ProjectReference Include="..\SymptomsLibrary.Infra.Data\SymptomsLibrary.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

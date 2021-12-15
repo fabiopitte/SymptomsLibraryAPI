@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6a62461-5d88-4870-9a88-fbc3d980b359": {
+      "ProjectGuid": "e6a62461-5d88-4870-9a88-fbc3d980b359",
+      "DisplayName": "SymptomsLibrary.Test",
+      "ColorIndex": 0
+    },
+    "bfd6761a-650e-453e-9296-b2cd92b7c5b0": {
+      "ProjectGuid": "bfd6761a-650e-453e-9296-b2cd92b7c5b0",
+      "DisplayName": "SymptomsLibrary.Presentation",
+      "ColorIndex": 1
+    },
+    "58831da4-2ce4-416c-8084-845cdfedcac4": {
+      "ProjectGuid": "58831da4-2ce4-416c-8084-845cdfedcac4",
+      "DisplayName": "SymptomsLibrary.Application",
+      "ColorIndex": 2
+    },
+    "ebf3e41e-93ec-4d9e-a528-3dd5bfae801a": {
+      "ProjectGuid": "ebf3e41e-93ec-4d9e-a528-3dd5bfae801a",
+      "DisplayName": "SymptomsLibrary.Domain",
+      "ColorIndex": 3
+    },
+    "00d5e690-2b78-476b-968f-73caaac3798a": {
+      "ProjectGuid": "00d5e690-2b78-476b-968f-73caaac3798a",
+      "DisplayName": "SymptomsLibrary.Infra.Data",
+      "ColorIndex": 4
+    },
+    "d119eb1a-4bd4-431b-8450-173391e914e5": {
+      "ProjectGuid": "d119eb1a-4bd4-431b-8450-173391e914e5",
+      "DisplayName": "SymptomsLibrary.Infra.IoC",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
